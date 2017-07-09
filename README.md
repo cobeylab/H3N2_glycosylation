@@ -15,3 +15,5 @@ The [`160K_imprinting.R`](Serology/160K_imprinting.R) script calculates the prob
 The code takes as input 
 * the frequencies of different 160 alleles over this period ([`160_freq.csv`](Serology/160_freq.csv)).
 * the frequencies of each influenza A subtype over the same period ([`H3_subtype_frac.csv`](Serology/H3_subtype_frac.csv)).
+
+The `US_only` column defines if data from strictly the U.S. was used, or if frequencies were calculated based on all global samples from that year.
