@@ -2,7 +2,7 @@
 
 The code to calculate recent changes in 160 allele frequencies is [`alleleFrequency2mon.py`](https://github.com/cobeylab/H3N2_glycosylation/tree/master/160%20allele%20frequencies/script).
 It takes the GISAID frequencies ([`20112017_align_AA.fasta`](https://github.com/cobeylab/H3N2_glycosylation/tree/master/160%20allele%20frequencies/data)) as input.
-The code to plot the recent frequencies is [Figure1A.R](https://github.com/cobeylab/H3N2_glycosylation/tree/master/160%20allele%20frequencies/script).
+The code to plot the recent frequencies is [`Figure1A.R`](https://github.com/cobeylab/H3N2_glycosylation/tree/master/160%20allele%20frequencies/script).
 
 ### Serological analyses
 
